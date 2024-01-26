@@ -1,0 +1,4 @@
+Pillow
+gensim
+numpy
+tensorflow
